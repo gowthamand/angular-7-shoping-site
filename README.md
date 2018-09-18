@@ -1,4 +1,4 @@
-# Angular6-shoping-site
+# Angular-6-shoping-site
 Welcome Angular 4 with Laravel 5.2 
 
 ### Laravel PHP Framework with API Integrated
