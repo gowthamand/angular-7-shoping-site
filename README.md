@@ -1,5 +1,5 @@
 # Angular-6-shoping-site
-Welcome Angular 4 with Laravel 5.2 
+Welcome Angular 7 with Laravel 5.6
 
 ### Laravel PHP Framework with API Integrated
 ## Components 
